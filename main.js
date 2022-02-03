@@ -13,4 +13,3 @@ function menos(){
     p.innerText = num
 }
 
-
